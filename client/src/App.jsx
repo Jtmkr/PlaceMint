@@ -62,7 +62,7 @@ export default function App() {
       <SignedOut>
         <div className="h-screen flex flex-col items-center justify-center text-center p-6 bg-white">
           <h1 className="text-5xl font-black mb-4 tracking-tighter">PlaceMint 🚀</h1>
-          <p className="text-slate-500 mb-8 max-w-md text-lg">Securely track and manage your internship pipeline.</p>
+          <p className="text-slate-500 mb-8 max-w-md text-lg">Securely track and manage your internship and placement pipeline.</p>
           <div className="bg-indigo-600 text-white px-10 py-4 rounded-2xl font-black shadow-xl hover:bg-indigo-700 cursor-pointer transition-all">
             <SignInButton mode="modal" />
           </div>
